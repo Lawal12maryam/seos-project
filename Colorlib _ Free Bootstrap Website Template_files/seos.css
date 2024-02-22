@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    color: rgb(69, 69, 110);
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.first-head-section{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.logo-image{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+ 
+.head-section{
+    display: flex;
+}
+
+.first-ul{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(139, 133, 133);
+}
+a:hover{
+    color: red;
+}
+
+.first-button{
+    margin-left: 350px;
+    width: 250px;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(80, 54, 150);
+    color: white;
+}
+.lmo{
+    font-weight: 400px;
+    font-size: 100px;
+    color: rgb(51, 51, 99);
+    margin-top: 50px;
+    max-width: 700px;
+    padding-left:50px ;
+}
+.lko{
+    display: flex;
+}
+p{
+    max-width: 50%;
+    line-height: 1.5;
+    padding-left: 50px;
+    color: grey;
+    font-size: 30px;
+    padding-bottom: 200px;
+}
+.baby{
+    font-weight: 100;
+    font-size: 30px;
+}
+.taiwo{
+    width: 1200px;
+}
+.second-button{
+    margin-left: 50px;
+    width: 250px;
+    height: 80px;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(238, 18, 55);
+    color: white;
+    margin-top: 50px;
+}
+
+.business{
+    display: flex;
+}
+.eee{
+    border: 3px solid whitesmoke;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-bottom: 100px;
+    gap: 30px;
+}
+.maryam{
+    text-align: center;
+    color: rgb(58, 58, 94);
+    font-size: 100px;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+.khad{
+    color: rgb(67, 67, 107);
+    font-weight: 200;
+    font-size: 50px;
+}
+.www{
+    display: flex;
+}
+.third-button{
+    margin-left: 700px;
+    width: 250px;
+    height: 80px;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(238, 18, 55);
+    color: white;   
+}
+.jash{
+    color: rgb(67, 67, 107);
+    font-weight: 200;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+} 
+.love{
+    display: flex;
+}
+.care{
+    display: flex;
+    margin-top: 55px; 
+}
+.big{
+    width:500px;
+    height: 150px;
+}
+.nana{
+    color: rgb(47, 47, 70);
+    font-size: 50px;
+    font-weight: 100;
+}
+.mama{
+    color: rgb(66, 66, 95);
+    font-size: 40px;
+    font-weight:100;
+    margin-bottom: 190px;
+    
+}
+.zaza{
+    display: flex;
+}
+.titi{
+    border: 3px solid rgb(226, 217, 226);
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.kaka{
+    color: rgb(22, 22, 54);
+    font-size: 50px;
+    font-weight: 100;
+}
+.lala{
+    display: flex;
+    justify-content: space-between;
+}
+.quick{
+    background-color:white;
+    width: 400px;
+    position: relative;
+    top:-180px;
+    height: 170px;
+    border-radius: 8px;
+}
+.abc{
+    text-align: center;
+}
+.vvv{
+    color: rgb(46, 46, 73);
+}
+.qqq{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(56, 56, 78);
+    max-width: 70%;
+    margin-top: -200px;
+    margin-left: 190px;
+}
+.rrr{
+    font-size: 30px;
+}
+.fff{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+.ooo{
+    color: red;
+    margin-top: -180px;
+}
+.xxx{
+    font-size: 70px;
+    color: black;
+    margin-left: 60px;
+
+}
+.vv{
+    color: white;
+}
+.ttt{
+    color: white;
+    background-color: rgb(190, 77, 115);
+    margin-left: 200px;
+    margin-right: 190px;
+    height: 300px;
+    border-radius: 20px;
+
+}
+.butt{
+    background-color: white;
+    color: purple;
+    margin-left: 1300px;
+    position: relative;
+    top: -170px;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+footer{
+    background-color: whitesmoke;
+}
+footer a{
+    display: flex;
+    font-size: 30px;
+    line-height: 2.4;
+}
+
+.pink{
+    display: flex;
+    justify-content: space-between;
+}
+footer h4{
+    font-size: 25px;
+    color: rgb(46, 46, 78);
+}
+.top{
+    color: gray;
+    text-align: center;
+    justify-content:center;
+    font-size: 30px;
+}
+
+
+
